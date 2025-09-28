@@ -3,8 +3,17 @@
   "songs": [
     {
       "title": "Good Morning",
-      "src": "song1.mp3"
+      "src": "song01.mp3"
+    },
+    {
+      "title": "Champion",
+      "src": "song02.mp3"
+    },
+    {
+      "title": "Stronger",
+      "src": "song03.mp3"
     }
   ]
 
 }
+
