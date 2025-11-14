@@ -1,6 +1,6 @@
   window.addEventListener('DOMContentLoaded', (event) => {
-    const HASH_PASS1 = "c08294bf5c5751df6e988281e051b9c5363c55dfaa037559a7b2e62996751221";
-    const HASH_PASS2 = "558211ed72b2d6967037419dff6f1e7cfd002d178c8fdeeb1239760d4e4c4059";
+    const HASH_PASS1 = "9222a46a1794da2a0307cd52b90076fa617ba41cdffe9ccc4d4e4a0f628b5496";
+    const HASH_PASS2 = "a5ad895656074bb12930374348bf903460016bcf430bf7039d7e34f0c505a7b1";
 
     const storedPassword = sessionStorage.getItem('auth1');
     const storedPassword2 = sessionStorage.getItem('auth2');
